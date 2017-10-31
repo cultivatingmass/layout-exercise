@@ -1,0 +1,15 @@
+* {
+margin: 0;
+}
+
+.orange-head{
+	background-color: orange;
+}
+
+.link{
+	color: red;
+}
+
+.footer{
+	background-color: black
+}
